@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-selector-coinput-multilingual"
-description = ""
+description = "选择器 + 综合输入模块组 双语版"
 version = "1.0.0"
 license = "LICENSE"
 
