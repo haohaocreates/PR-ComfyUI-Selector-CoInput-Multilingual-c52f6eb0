@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-selector-coinput-multilingual"
+description = ""
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/ZHO-ZHO-ZHO/ComfyUI-Selector-CoInput-Multilingual"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Selector-CoInput-Multilingual"
+Icon = ""
